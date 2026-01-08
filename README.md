@@ -1,13 +1,13 @@
-## JavaScript Calculator
+ JavaScript Calculator
 
 A simple calculator built using **HTML, CSS, and JavaScript** to practice core JavaScript concepts and DOM manipulation.
 
-### What this project does
+ What this project does
 - Performs basic arithmetic operations: **add, subtract, multiply, divide**
 - Displays numbers and results dynamically on the page
 - Uses button click events to trigger calculations
 
-### What I learned
+ What I learned
 - Working with JavaScript variables and functions
 - Using `document.getElementById` to access and update the DOM
 - Handling user interactions with `onclick` events
